@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="SONIRRA - Sleep and Relax">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0E1A"/>
+      <stop offset="1" stop-color="#1A1F36"/>
+    </linearGradient>
+    <radialGradient id="g" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6C8EF5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6C8EF5" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .t{font-family:'Segoe UI',Roboto,Arial,sans-serif}
+      .w{animation:w 4s ease-in-out infinite;transform-origin:center}
+      .w2{animation:w 4s ease-in-out infinite 1.3s}
+      .w3{animation:w 4s ease-in-out infinite 2.6s}
+      @keyframes w{0%,100%{opacity:.15}50%{opacity:.8}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <circle cx="960" cy="180" r="260" fill="url(#g)"/>
+  <g fill="none" stroke-width="3">
+    <circle class="w" cx="960" cy="180" r="70" stroke="#6C8EF5"/>
+    <circle class="w2" cx="960" cy="180" r="110" stroke="#8B6CF5"/>
+    <circle class="w3" cx="960" cy="180" r="150" stroke="#5DCAA5"/>
+  </g>
+  <circle cx="960" cy="180" r="26" fill="#6C8EF5"/>
+  <g fill="#E8EAF6" opacity="0.6">
+    <circle cx="80" cy="50" r="2"/><circle cx="420" cy="320" r="2"/><circle cx="640" cy="60" r="2.5"/><circle cx="1130" cy="60" r="2"/><circle cx="1150" cy="310" r="2"/>
+  </g>
+  <text x="70" y="150" class="t" font-size="92" font-weight="800" fill="#E8EAF6" letter-spacing="8">SONIRRA</text>
+  <text x="70" y="208" class="t" font-size="32" font-weight="500" fill="#6C8EF5">Sleep &amp; Relax</text>
+  <text x="70" y="268" class="t" font-size="24" fill="#888780">Mix up to three sounds. Set a timer. Drift off.</text>
+  <text x="70" y="304" class="t" font-size="20" fill="#4A5280">rain  ·  ocean  ·  fire  ·  white noise  ·  focus</text>
+</svg>
