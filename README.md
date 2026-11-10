@@ -10,6 +10,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-6C8EF5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Media3](https://img.shields.io/badge/Media3-8B6CF5?style=for-the-badge&labelColor=0A0E1A&color=8B6CF5)
 
+<br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.sonirra"><img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-6C8EF5?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Google_Play"/></a> <a href="https://izstudio.web.app/en/apps/sonirra/"><img src="https://img.shields.io/badge/LEARN_MORE-Website-6C8EF5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Website"/></a>
+
+
 **A sleep-sounds mixer for Android: rain, ocean, fire and white noise, blended your way.**
 
 </div>
